@@ -1,9 +1,10 @@
 import "./App.css";
+import BlueBtnComponent from "./BlueBtnComponent";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
+      <BlueBtnComponent />
     </div>
   );
 }

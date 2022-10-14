@@ -1,9 +1,10 @@
 import "./App.css";
+import GreenBtnComponents from "./GreenBtnComponents";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
+      <GreenBtnComponents />
     </div>
   );
 }
