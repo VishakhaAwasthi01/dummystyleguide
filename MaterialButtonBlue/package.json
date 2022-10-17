@@ -1,7 +1,16 @@
 {
-  "name": "materialbuttonblue",
+  "name": "@vishakhaawasthi01/materialbuttonblue",
   "version": "0.1.0",
-  "private": true,
+  "description": "Testing purpose",
+  "author": {
+    "name": "VishakhaAwasthi01"
+  },
+  "repository": {
+    "url": "https://github.com/VishakhaAwasthi01/dummystyleguide.git"
+},
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com/@VishakhaAwasthi01"
+},
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
