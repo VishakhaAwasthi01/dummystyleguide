@@ -5,12 +5,8 @@
   "author": {
     "name": "VishakhaAwasthi01"
   },
-  "repository": {
-    "url": "https://github.com/VishakhaAwasthi01/dummystyleguide.git"
-},
-"publishConfig": {
-  "registry": "https://npm.pkg.github.com/@VishakhaAwasthi01"
-},
+  "repository": "https://github.com/VishakhaAwasthi01/dummystyleguide.git",
+
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
@@ -46,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@VishakhaAwasthi01"
   }
 }
