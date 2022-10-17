@@ -1,7 +1,14 @@
 {
   "name": "materialbuttongreen",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "description": "Testing purpose",
+  "author": {
+    "name": "VishakhaAwasthi01"
+  },
+  "repository": "https://github.com/VishakhaAwasthi01/dummystyleguide.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",

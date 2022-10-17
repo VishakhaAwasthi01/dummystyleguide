@@ -44,6 +44,6 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@VishakhaAwasthi01"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
